@@ -1,0 +1,7 @@
+distribution_code_name: "fcitx-rime"
+distribution_name: Rime
+distribution_version: 0.2.3
+installation_id: "Junix-ArchLinux"
+rime_version: 1.7.3
+sync_dir: "/home/junyi/.local/share/RimeSync"
+update_time: "Sun Apr 11 20:42:40 2021"
